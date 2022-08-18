@@ -43,6 +43,7 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Test Post](https://dev.to/zkaddour/test-post-50nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
