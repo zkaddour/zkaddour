@@ -43,9 +43,9 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/zkaddour/test-post-50nn)
+<!-- - [Test Post](https://dev.to/zkaddour/test-post-50nn)-->
 <!-- BLOG-POST-LIST:END -->
--->
+
 <!--
 **zkaddour/zkaddour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
