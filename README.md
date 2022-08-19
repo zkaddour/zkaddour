@@ -43,7 +43,7 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/zkaddour/test-post-50nn)
+- [If I Could Turn Back Time, Where Would I Start?](https://dev.to/zkaddour/if-i-could-turn-back-time-where-would-i-start-3le8)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
