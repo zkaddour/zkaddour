@@ -42,7 +42,7 @@
       I worked on virtual reality projects before.
     </li>
     <li>
-      My favourite code editor <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="VS Code" width="40" height="20"/>&nbsp;
+      My favourite code editor is <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" **alt="VS Code" width="16" height="16"/>&nbsp;
     </li>
     <li>
       I enjoy learning about better and sustainable urban planning best practices
