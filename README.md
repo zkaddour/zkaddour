@@ -113,7 +113,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zkaddour&theme=gotham&border_color=ffffff&border_radius=10)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zkaddour&layout=compact&theme=gotham&border_color=ffffff&border_radius=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-ten-brown.vercel.app/api/top-langs/?username=zkaddour&layout=compact&theme=gotham&border_color=ffffff&border_radius=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
