@@ -13,9 +13,9 @@
     <a href="https://www.codewars.com/users/zKaddour">
       <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars Badge"/>
     </a>
-    <a href="https://twitter.com/itsZakariaK">
+    <!--<a href="https://twitter.com/itsZakariaK">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    </a>-->
     <a href="https://www.hackerrank.com/zkaddour">
       <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
     </a>
