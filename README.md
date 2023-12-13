@@ -28,7 +28,7 @@
 
 ---
 
-### :technologist: About Me :
+### 🧑‍💻 About Me :
 
   A junior R&D engineer located in France, looking for a position that offer new challenges and learning opportunities. I have a passion for:
   - Real-time programming including game dev and simulations as well as human sciences
@@ -64,7 +64,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <h4>Programming Languages</h4>
@@ -115,7 +115,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zkaddour&theme=gotham&border_color=ffffff&border_radius=10)](https://git.io/streak-stats)
 
@@ -123,7 +123,7 @@
 
 ---
 
-### :writing_hand: Blog Posts :
+### ✍️ Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 - [If I Could Turn Back Time, Where Would I Start?](https://dev.to/zkaddour/if-i-could-turn-back-time-where-would-i-start-3le8)
